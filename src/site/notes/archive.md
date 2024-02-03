@@ -18,4 +18,6 @@
 4. 0931 0122		 9. 6881 2753
 5. 6607 4632		10. 4877 3079
 
+[[ewhore/ewhore-packs\|ewhore-packs]]
 
+[[ewhore/hotkeys\|hotkeys]]
