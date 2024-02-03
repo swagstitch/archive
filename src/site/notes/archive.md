@@ -19,6 +19,3 @@
 5. 6607 4632		10. 4877 3079
 
 
-[[ewhore/ewhore-packs\|ewhore-packs]]
-
-[[ewhore/hotkeys\|hotkeys]]
